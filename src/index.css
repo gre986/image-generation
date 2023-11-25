@@ -7,26 +7,28 @@ body {
   padding:0;
   width: 100vw;
   height: 100vh;
-  background: -webkit-linear-gradient(#000000, #ffffff);
+  background: -webkit-linear-gradient(#5ab5e2, #fdd2d2);
   color:#777;
   display: flex;
   justify-content: center;
 }
 h1 {
   font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 75px;
   text-align: center;
-  color: #44ff00
+  color: #000000
 }
 p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 200;
   font-size: 20px;
   text-align: center;
-  color: #eaff00
+  color: rgb(240, 240, 51)
 }
 
 .app{
-  width:90vw;
+  width: 55vw; 
 }
 
 .search-section {
